@@ -9,7 +9,7 @@ A new way of creating the modules has been introduced. This allows the daemon, `
 - The creation of `libcc.so` and build process is not yet final.
 - Currently `komodod` containing a dynamic module is built and used to launch an asset chain that has the module enabled through the parameter [-ac_cclib.](../installations/asset-chain-parameters.html#ac-cclib)
 - Go through the pages for differnt dynamic modules to learn how to build and test them currently.
-- The specifics of this process may change in the futute
+- The specifics of this process may change in the future
 
 :::
 
