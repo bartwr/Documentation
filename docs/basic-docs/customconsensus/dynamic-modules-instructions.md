@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A new way of creating the modules has been introduced, which allows the daemon, `komodod`, to be built containing a dynamic library named `libcc.so` that contains any specified set of dynamic modules. Ex: rogue, musig, sudoku etc., And such a `komodod` will be able to start an assetchain that has any of the specified modules enabled.
+A new way of creating the modules has been introduced. This allows the daemon, `komodod`, to be built containing a dynamic library named `libcc.so` that contains any specified set of dynamic modules. Ex: rogue, musig, sudoku etc., And such a `komodod` will be able to start an assetchain that has any of the specified modules enabled.
 
 ::: warning
 
